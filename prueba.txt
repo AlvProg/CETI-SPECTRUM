@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hola CETI. 
+=======
+Hola CETI. Esto es un cambio.
+>>>>>>> 234f442237490b812302c0ae4e6bbf0921fd9f09
